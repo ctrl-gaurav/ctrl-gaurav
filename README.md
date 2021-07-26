@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="900"> -->
-<img src="https://techgenesis20.files.wordpress.com/2020/06/connections.gif?w=1080&zoom=2" width="700">
+<img src="https://techgenesis20.files.wordpress.com/2020/06/connections.gif" width="700">
 
 
 ## Github Stats:
