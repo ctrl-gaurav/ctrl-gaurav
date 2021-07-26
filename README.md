@@ -24,7 +24,21 @@ Here are some ideas to get you started:
 
 <!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrl-gaurav&theme=midnight-purple&show_icons=true) -->
 
+<br>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-gaurav&theme=tokyonight"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=redical&bg_color=0B0826" width="100%"/>
+  </a>
+</p>
+
+<br>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrl-gaurav&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's github stats" />
@@ -32,17 +46,6 @@ Here are some ideas to get you started:
 <!--   https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=react-dark&bg_color=20232a -->
 <!--   theme=jolly&hide_border=true -->
 </p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-gaurav&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=redical&bg_color=0B0826" width="100%"/>
-  </a>
-</p>
-  
   
 
 
@@ -50,4 +53,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-gaurav&layout=compact&theme=tokyonight&count_private=true" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-gaurav&layout=compact&theme=tokyonight&count_private=true" width="100%"/>
+  </a>
+</p>
+
