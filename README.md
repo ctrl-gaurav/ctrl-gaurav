@@ -24,12 +24,14 @@ Here are some ideas to get you started:
 
 <!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrl-gaurav&theme=midnight-purple&show_icons=true) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrl-gaurav&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's github stats" />
-<br>
+
 
 <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrl-gaurav&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's github stats" />
+<br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-gaurav&theme=tokyonight"/>
   </a>
+  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=redical&bg_color=0B0826" width="100%"/>
   
 <!--   https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=react-dark&bg_color=20232a -->
