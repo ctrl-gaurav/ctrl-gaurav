@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="900"> -->
-<img src="https://github.com/ctrl-gaurav/ctrl-gaurav/blob/main/Images/AI.gif" width="720" height="440">
+<img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="900">
+<!-- <img src="https://github.com/ctrl-gaurav/ctrl-gaurav/blob/main/Images/AI.gif" width="720" height="440"> -->
 
 
 ## Github Stats:
