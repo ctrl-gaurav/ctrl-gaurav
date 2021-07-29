@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ## Projects:
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=AI-Verifica&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Breast-Cancer-Cell-Type-Classification&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Movie-Recommender&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=BeachMates-App&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=AI Verifica&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Breast Cancer Classification&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Movie Recommender&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=BeachMates&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 ## Github Stats:
