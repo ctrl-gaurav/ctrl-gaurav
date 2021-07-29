@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="900">
 <!-- <img src="https://github.com/ctrl-gaurav/ctrl-gaurav/blob/main/Images/AI.gif" width="720" height="440"> -->
 
+<br>
+
+## Projects:
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=AI-Verifica&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Breast-Cancer-Cell-Type-Classification&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Movie-Recommender&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="382" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=BeachMates-App&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+</p>
 
 ## Github Stats:
 
