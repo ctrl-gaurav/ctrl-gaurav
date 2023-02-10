@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=redical&bg_color=0B0826" width="100%"/>
+    <img src="[https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=redical&bg_color=0B0826](https://github-readme-activity-graph.cyclic.app/graph?username=ctrl-gaurav&theme=react-dark)" width="100%"/>
   </a>
 </p>
 
