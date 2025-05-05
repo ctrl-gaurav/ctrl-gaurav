@@ -1,5 +1,5 @@
-# Hi there, I'm Gaurav Srivastava 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+# Hi there, I'm Gaurav Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- 👋 -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ctrl-gaurav.ctrl-gaurav" alt="Visitor count"/>
 
 I'm a **Master's student in Computer Science at Virginia Tech** (Graduating May 2026), and fortunately advised by [**Dr. Xuan Wang**](https://xuanwang91.github.io/). I am also affiliated with the [**Sanghani Center for Artificial Intelligence and Data Analytics**](https://sanghani.cs.vt.edu/person/gaurav-srivastava/).
@@ -129,8 +129,8 @@ Here are some projects I'm particularly proud of. *(Note: Keeping only the speci
 ### 📫 Get In Touch
 
 * **Portfolio:** [ctrl-gaurav.github.io](https://ctrl-gaurav.github.io/)
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/gaurav-srivastava-gk/) 
-* **Email:** Please reach out via the contact form on my portfolio website.
+* **LinkedIn:** [https://www.linkedin.com/in/gaurav-srivastava-gk/](https://www.linkedin.com/in/gaurav-srivastava-gk/) 
+* **Email:** Feel free to reach out to me via [gks@vt.edu](mailto:gks@vt.edu).
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ctrl-gaurav.ctrl-gaurav) -->
 
