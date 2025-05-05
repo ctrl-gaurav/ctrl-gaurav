@@ -12,10 +12,10 @@ Prior to joining Virginia Tech, I got my Bachelor's degree in Computer Science f
 I work on **improving small language models in reasoning**—pushing lightweight LMs to think deeper, act smarter, and collaborate like expert teams. My research spans natural‑language processing, complex reasoning, and model efficiency, all aimed at creating *efficient, low‑cost* AI systems. My current focus areas include:
 
 
-
+<!-- 📊 -->
 * 🧠 **Complex Reasoning in Large & Small Language Models (LLMs & SLMs):** I study emergent reasoning, chain‑of‑thought, and which facets of reasoning are **kept or lost** after compression—revealing **when  and  why** small models **succeed or fail**.
-* 📊 **Multi‑Agent Debate & Self‑Evolution:**  I design systems where multiple LMs critique, refine, and distill each other’s outputs. Iteratively fine‑tuning the resulting “debate traces” lets a single model *self‑evolve* without human‑labeled data.
-* 🚀 **Overthinking in Basic Reasoning:** I also study when language models overthink problems that humans solve instinctively. I developed [**LLMThinkBench**](https://github.com/ctrl-gaurav/LLMThinkBench), a framework that measures when—and why—LLMs *overthink* straightforward math and logical reasoning tasks.
+* 🚀 **Multi‑Agent Debate & Self‑Evolution:**  I design systems where multiple LMs critique, refine, and distill each other’s outputs. Iteratively fine‑tuning the resulting “debate traces” lets a single model *self‑evolve* without human‑labeled data.
+* 🧠 **Overthinking in Basic Reasoning:** I also study when language models overthink problems that humans solve instinctively. I developed [**LLMThinkBench**](https://github.com/ctrl-gaurav/LLMThinkBench), a framework that measures when—and why—LLMs *overthink* straightforward math and logical reasoning tasks.
 
 
 <br/>
@@ -61,7 +61,7 @@ Here are some projects I'm particularly proud of. *(Note: Keeping only the speci
     </td>
     <td width="33%">
       <a href="https://github.com/ctrl-gaurav/slms-reasoning-leaderboard.github.io" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=SLMs-reasoning-Leaderboard&theme=radical&show_owner=true" alt="SLMs reasoning Leaderboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=slms-reasoning-leaderboard.github.io&theme=radical&show_owner=true" alt="SLMs reasoning Leaderboard">
       </a>
       <br/>
       <em>Towards Reasoning Ability of Small Language Models</em>
@@ -87,14 +87,14 @@ Here are some projects I'm particularly proud of. *(Note: Keeping only the speci
     </td>
     <td width="33%">
       <a href="https://github.com/ctrl-gaurav/GE-Precision-Health-Challenge-2021-22" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=doconline&theme=radical&show_owner=true" alt="DocOnLine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=GE-Precision-Health-Challenge-2021-22&theme=radical&show_owner=true" alt="DocOnLine">
       </a>
       <!-- <br/>
       <em>Platform facilitating online document access and interaction, potentially with AI features.</em> -->
     </td>
      <td width="33%">
       <a href="https://github.com/ctrl-gaurav/Social-Distancing-Alert" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=beachmates_app&theme=radical&show_owner=true" alt="Social Distancing Alert">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-gaurav&repo=Social-Distancing-Alert&theme=radical&show_owner=true" alt="Social Distancing Alert">
       </a>
       <!-- <br/>
       <em>A full-stack application, likely a social or utility app related to 'beachmates'.</em> -->
